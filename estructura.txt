@@ -1,0 +1,25 @@
+project-root/
+|-- pages/
+|   |-- index.js
+|   |-- auth/
+|   |   |-- login.js
+|-- src/
+|   |-- components/
+|   |   |-- Auth/
+|   |   |   |-- LoginForm.js
+|   |   |-- Dashboard/
+|   |   |   |-- Dashboard.js
+|   |   |   |-- ProductList.js
+|   |   |   |-- UserList.js
+|   |   |   |-- ClientList.js
+|   |-- context/
+|   |   |-- AuthContext.js
+|   |-- services/
+|   |   |-- api.js
+|   |-- routes/
+|   |   |-- paths.js
+|   |-- utils/
+|   |   |-- helpers.js
+|   |-- config-global.js
+|-- .env
+|-- package.json
